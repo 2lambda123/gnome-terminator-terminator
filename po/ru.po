@@ -2,11 +2,11 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Gnome Terminator <terminator@lazyfrosch.de>, 2020
 # Mariya Shikunova <mariia@basealt.ru>, 2023
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
